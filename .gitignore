@@ -1,0 +1,6 @@
+# Ignore database data
+infra/redis_data/
+infra/postgres_data/
+
+# But keep the folder structure (optional)
+!infra/.keep
