@@ -1,3 +1,3 @@
 # Job Workflow
 
-Simple Job workflow
+Simple Job workflow showcasing my business logic modelling skills
